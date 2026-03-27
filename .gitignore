@@ -1,0 +1,45 @@
+# Virtual environments
+ai_env/
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Whisper / AI model files
+*.pt
+*.bin
+*.safetensors
+*.onnx
+*.gguf
+*.pkl
+*.h5
+
+# Model cache directories
+.cache/
+models/
+datasets/
+logs/
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp / audio files
+*.webm
+*.wav
+*.mp3
+*.mp4
+tmp/
+temp/

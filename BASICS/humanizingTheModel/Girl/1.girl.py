@@ -1,0 +1,3 @@
+from ollama import chat
+model = "qwen2.5:3b"
+
