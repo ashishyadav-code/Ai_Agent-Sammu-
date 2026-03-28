@@ -1,3 +1,7 @@
+# Environment variables
+.env
+*.env
+
 # Virtual environments
 ai_env/
 venv/
